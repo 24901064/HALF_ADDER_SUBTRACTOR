@@ -50,7 +50,7 @@ Figure -02 HALF Subtractor
 
 **Program:**
 ![image](https://github.com/user-attachments/assets/ed6dfefb-8feb-46bd-ad9b-5e58469776a7)
-![image](https://github.com/user-attachments/assets/f68a5f7c-3e71-42e5-a327-11b823d394bf)
+![image](https://github.com/user-attachments/assets/49b67cc6-011a-4926-8d67-8d127d1edfaa)
 
 
 
@@ -61,7 +61,7 @@ Developed by:S.Bharani Kumar RegisterNumber:24901064 */
 **RTL Schematic**!
 
 ![image](https://github.com/user-attachments/assets/ab6a5046-122f-4890-8f5d-689417595bea)
-![image](https://github.com/user-attachments/assets/478a9971-2bb8-4a28-9c8b-81fa1e6193b6)
+![image](https://github.com/user-attachments/assets/4ab7a3ed-a104-4aa4-9154-284fb934ac19)
 
 
 **Output/TIMING Waveform**
