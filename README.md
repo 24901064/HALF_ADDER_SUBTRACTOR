@@ -57,8 +57,13 @@ Developed by:S.Bharani Kumar RegisterNumber:24901064 */
 **RTL Schematic**!
 
 ![image](https://github.com/user-attachments/assets/ab6a5046-122f-4890-8f5d-689417595bea)
+![image](https://github.com/user-attachments/assets/478a9971-2bb8-4a28-9c8b-81fa1e6193b6)
+
 
 **Output/TIMING Waveform**
 ![image](https://github.com/user-attachments/assets/27422d10-2ea5-42d0-90f5-eedfae9c0232)
+![image](https://github.com/user-attachments/assets/d9f54a86-e170-42cc-b77f-e84eee7b10d1)
+
 
 **Result:**
+Hence Proved
